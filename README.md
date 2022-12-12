@@ -4,6 +4,7 @@ The Asuswrt-Merlin custom firmware adds support for custom dynamic DNS providers
   - GT-AX11000,
   - RT-AC66U,
   - RT-AC68U,
+  - RT-AC86U,
   - RT-AX86U,
   - RT-AC87U, and
   - RT-AX88U.
@@ -23,6 +24,7 @@ Features include:
 - [@clayauld](https://github.com/clayauld) - Verified works on RT-AC87U
 - [@ilasoft](https://github.com/ilasoft) - Verified works on RT-AX86U
 - [@sujitph](https://github.com/sujitph) - Verified works on GT-AX11000
+- [@Jambo15](https://github.com/Jambo15) - Verified works on RT-AC86U
 
 ## How to Configure
 
